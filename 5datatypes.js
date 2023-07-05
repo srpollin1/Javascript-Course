@@ -1,25 +1,25 @@
 // Primitive
 // Undefined
-//let item
+let item
 
 // String
-//item = 'Hello'
+item = 'Hello'
 // Number
-//item = 24
+item = 24
 // Boolean
-//item = true
+item = true
 // Null
-//item = null
+item = null
 // Symbol
-//item = Symbol()
+item = Symbol()
 // Reference type
 
 // Array
-//item = [1,2,5]
+item = [1,2,5]
 // Objetos
-// item = {
-//     name: 'Eduardo'
-// }
-// Date
-// item = new Date()
-// console.log('type', typeof item)
+item = {
+    name: 'Eduardo'
+}
+Date
+item = new Date()
+console.log('type', typeof item)
