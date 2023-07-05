@@ -1,4 +1,4 @@
-// console.log('app.js')
+console.log('app.js')
 // console.log(123)
 // console.log(true)
 // var mesagge = 'this is a new mesagge'
