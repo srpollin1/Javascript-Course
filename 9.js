@@ -16,7 +16,7 @@ val = num1 / num2
 // Modulus (Remainder)
 val = num1 % num2
 
-Math Object
+//Math Object
 val = Math.PI
 val = Math.round(8.7)
 val = Math.round(8.4)
