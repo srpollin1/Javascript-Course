@@ -4,3 +4,4 @@ let message;
 
 message = ''
 console.log(message)
+
