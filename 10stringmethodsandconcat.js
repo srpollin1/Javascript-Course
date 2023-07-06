@@ -7,3 +7,7 @@ let val;
 val = firstName + lastName
 val = firstName + ' ' + lastName
 
+//Append
+val = 'Cristian'
+val += 'Rojas'
+
